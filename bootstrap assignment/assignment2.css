@@ -1,0 +1,116 @@
+.display-img{
+    background: url('https://i.ibb.co/HGFQSgR/second-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:auto;
+    border:1px solid;
+    
+}
+#logo{
+text-align: center;
+color:black;
+font-size: 80px;
+background: white;
+height: 150px;
+width: 150px;
+border-radius: 100px;
+margin: auto;
+margin-top: 130px;
+margin-bottom: 80px;
+}
+.instafont{
+float: right;
+}
+.youfont{
+float: right;
+}
+.fbfont{
+    float: right;
+}
+.media_adding{
+    height:50px;
+    width:50px;
+}
+.between-text{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    font-size: 50px;
+}
+.drop_locator{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.drop_font{
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    color:black;
+}
+.div-2{
+    margin-top: 30px:
+    
+    margin-bottom: 60px;
+    margin: auto;
+}
+.photosize{
+    display: inline-block;
+    box-shadow: black;
+    line-height:10px;
+   }
+/*quick search css part*/
+.search-barcontainer{
+    margin-top: 40px;
+    margin-left: 115px;
+
+}
+.quicksearchhead{
+    color: #192f60;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.quicksearchsubhead{
+    color: grey;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0.1;
+    
+}
+.tile-container{
+    height: 150px;
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+    box-shadow: 0 3px 10px black;
+    margin-top: 20px;
+}
+.tilecomponent1{
+    width: 50%;
+    float: left;
+}
+.tilecomponent2{
+    width: 50%;
+    float: left;
+    margin-top: 10px;
+   
+}
+.component1{
+    text-align: left;
+    font-size: 30px;
+    color: #192f60;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+.component2{
+    text-align: left;
+    font-size: 15px;
+    color: gray;
+    line-height: 1;
+
+
+}
+    
